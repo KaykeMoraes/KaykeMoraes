@@ -24,17 +24,9 @@ Sou do Rio de Janeiro e atualmente curso **Análise e Desenvolvimento de Sistema
 
 ## 🚧 Projetos em Desenvolvimento
 
-### 🦀 **Gerenciador de Tarefas CLI (Rust)**
-Um aplicativo de linha de comando para gerenciar tarefas, com suporte a criação, listagem, conclusão e remoção.  
-O projeto utiliza **Serde** para serialização em JSON e **Clap** para argumentos via terminal.
+### 🦀 **Resumidor de textos (Rust)**
+Uma aplicação que resume textos .pdf, .docx ou .txt por meio da IA Gemini.  
+O projeto utiliza **serde** para serialização em JSON, **reqwest** para a implementação da IA via API, **dotenv** para as variáveis de ambiente e **anyhow** para tratamento de erros.
 
-**Tecnologias:** Rust, Serde, Clap  
-**Progresso:** Implementando estrutura inicial e persistência em arquivo
-
----
-
-### ☕ **API REST de Viagens (Java)**
-Uma aplicação simples em Java para praticar organização de código, classes, métodos e entrada de usuário.
-
-**Tecnologias:** Java  
-**Progresso:** Criando estrutura básica e primeiras funcionalidades
+**Tecnologias:** Rust, serde, reqwest, dotenv e anyhow  
+**Progresso:** Trabalhando no manejamento de pdfs
