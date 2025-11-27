@@ -25,8 +25,11 @@ Sou do Rio de Janeiro e atualmente curso **Análise e Desenvolvimento de Sistema
 ## 🚧 Projetos em Desenvolvimento
 
 ### 🦀 **Resumidor de textos (Rust)**
+[REPO](https://github.com/KaykeMoraes/resumidor-de-texto)
+
 Uma aplicação que resume textos .pdf, .docx ou .txt por meio da IA Gemini.  
 O projeto utiliza **serde** para serialização em JSON, **reqwest** para a implementação da IA via API, **dotenv** para as variáveis de ambiente e **anyhow** para tratamento de erros.
 
 **Tecnologias:** Rust, serde, reqwest, dotenv e anyhow  
 **Progresso:** Trabalhando no manejamento de pdfs
+
